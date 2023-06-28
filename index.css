@@ -16,6 +16,7 @@ body {
     text-align: center;
     margin: 90px 40px;
     cursor: pointer;
+    transition: 0.5s;
   }
 
   #stopButton:hover {
