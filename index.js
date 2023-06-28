@@ -22,7 +22,7 @@ function illuminateGreen() {
   }
 
 function clearLights() {
-  document.getElementById('stopLight').style.backgroundColor = "black";
-  document.getElementById('slowLight').style.backgroundColor = "black";
-  document.getElementById('goLight').style.backgroundColor = "black";
+  stopLight.style.backgroundColor = "black";
+  slowLight.style.backgroundColor = "black";
+  goLight.style.backgroundColor = "black";
 }
